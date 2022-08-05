@@ -22,4 +22,4 @@
 
 ---------------------
 ### Most Used Langusages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppqqq99)](https://github.com/pppqqq99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppqqq99)](https://github.com/pppqqq99/github-readme-stats) 
