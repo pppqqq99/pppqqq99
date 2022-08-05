@@ -6,5 +6,17 @@
 #### Backjoon Link
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pppqqq99)](https://solved.ac/pppqqq99)
 
-#### Notion Link
+#### Completed Projects
+
+##### Development
+* ASAP(Auto Sorting APplication) (21.06 ~ 21.09)
+* 여행 가 VOCA (21.10 ~ 21.12)
+
+##### Project Manage
+* 텀블벅 크라우드 펀딩 (21.4 ~ 21.7)
+* 창업워크숍(사업계획서 경진대회) (21.9 ~ 21.10)
+* 시너지 기업미션 프로젝트(사업 기획) (21.10 ~ 21.12)
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+#### ~ing projects
+* SOS(Subway-fare Optimization System)
