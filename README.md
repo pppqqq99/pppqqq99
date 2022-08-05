@@ -19,3 +19,7 @@
 ---------------------
 ### ~ing projects
 * SOS(Subway-fare Optimization System) (22.06 ~ ) <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+---------------------
+### Most Used Langusages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppqqq99)](https://github.com/pppqqq99/github-readme-stats)
