@@ -18,7 +18,7 @@
 * [시너지 기업미션 프로젝트(사업 기획)](https://github.com/pppqqq99/pppqqq99/files/9264639/_.1.-1.pdf) (21.10 ~ 21.12)
 ---------------------
 ### ~ing projects
-* SOS(Subway-fare Optimization System) (22.06 ~ ) <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+* SOS(Subway-fare Optimization System) (22.06 ~ ) 
 
 ---------------------
 ### Most Used Langusages
