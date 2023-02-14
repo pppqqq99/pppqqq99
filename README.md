@@ -9,16 +9,16 @@
 ### Completed Projects
 
 #### Development
-* ASAP(Auto Sorting APplication) (21.06 ~ 21.09)
+* ASAP(택배 기사 보조 어플) (21.06 ~ 21.09)
 * 여행 가 VOCA (21.10 ~ 21.12)
+* SOS(소득 분위에 따른 지하철 요금 책정 시스템) Project (22.07 ~ 22.08)
+* ITYS(숙제 검사 서비스) (22.01 ~ )
 
 #### Project Manage
 * [텀블벅 크라우드 펀딩](https://tumblbug.com/ddobagi__light?ref=검색%2F키워드) (21.4 ~ 21.7)
 * [창업워크숍(사업계획서 경진대회)](https://github.com/pppqqq99/pppqqq99/files/9264618/Wet.the.Travel.pdf) (21.9 ~ 21.10)
 * [시너지 기업미션 프로젝트(사업 기획)](https://github.com/pppqqq99/pppqqq99/files/9264639/_.1.-1.pdf) (21.10 ~ 21.12)
 ---------------------
-### ~ing projects
-* SOS(Subway-fare Optimization System) (22.06 ~ ) 
 
 ---------------------
 ### Most Used Langusages
