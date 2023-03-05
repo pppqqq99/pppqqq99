@@ -21,6 +21,3 @@
 ### ~ing Projects
 * ITYS(숙제 검사 서비스) (22.01 ~ )
 
----------------------
-### Most Used Langusages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppqqq99)](https://github.com/pppqqq99/github-readme-stats) 
