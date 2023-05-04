@@ -12,6 +12,8 @@
 * ASAP(택배 기사 보조 어플) (21.06 ~ 21.09)
 * 여행 가 VOCA (21.10 ~ 21.12)
 * SOS(소득 분위에 따른 지하철 요금 책정 시스템) Project (22.07 ~ 22.08)
+* Priority Scheduler on xv6 (22.09 ~ 22.10)
+* Continuous Sector File System on xv6 (22.11 ~ 22.12)
 
 #### Project Manage
 * [텀블벅 크라우드 펀딩](https://tumblbug.com/ddobagi__light?ref=검색%2F키워드) (21.4 ~ 21.7)
@@ -19,9 +21,11 @@
 * [시너지 기업미션 프로젝트(사업 기획)](https://github.com/pppqqq99/pppqqq99/files/9264639/_.1.-1.pdf) (21.10 ~ 21.12)
 ---------------------
 ### ~ing Projects
-* ITYS(숙제 검사 서비스) (22.01 ~ )
+* 현지 여행 물가 정보 제공 서비스(23.03 ~)
+* NFT 굿즈 플랫폼 모델링(23.03 ~)
 
 ---------------------
 ### Awards
 * 2021 IT대학 소프트웨어공모전 총장상
+* 2021-2 백마성적우수장학금
 
