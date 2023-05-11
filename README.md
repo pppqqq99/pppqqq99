@@ -11,6 +11,7 @@
 #### Development
 * ASAP(택배 기사 보조 어플) (21.06 ~ 21.09)
 * 여행 가 VOCA (21.10 ~ 21.12)
+* Delete Duplicated Files on Linux System (22.04 ~ 22.05)
 * SOS(소득 분위에 따른 지하철 요금 책정 시스템) Project (22.07 ~ 22.08)
 * Priority Scheduler on xv6 (22.09 ~ 22.10)
 * Continuous Sector File System on xv6 (22.11 ~ 22.12)
