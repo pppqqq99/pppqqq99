@@ -16,7 +16,7 @@
 * [Priority Scheduler on xv6](https://github.com/yimhyeongjun/Priority_Scheduler_on_xv6) (22.09 ~ 22.10)
 * [Continuous Sector File System on xv6](https://github.com/yimhyeongjun/Continuous_file_system_on_xv6) (22.11 ~ 22.12)
 
-#### Project Manage
+#### Product Design
 * [텀블벅 크라우드 펀딩](https://tumblbug.com/ddobagi__light?ref=검색%2F키워드) (21.4 ~ 21.7)
 * [창업워크숍(사업계획서 경진대회)](https://github.com/pppqqq99/pppqqq99/files/9264618/Wet.the.Travel.pdf) (21.9 ~ 21.10)
 * [자람푸드 기업미션 프로젝트(사업 기획)](https://github.com/pppqqq99/pppqqq99/files/9264639/_.1.-1.pdf) (21.10 ~ 21.12)
