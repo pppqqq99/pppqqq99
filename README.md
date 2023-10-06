@@ -5,7 +5,7 @@
 
 ---------------------
 ### Career
-* Intership At ETAS.KR (23.07 ~)
+* Intership at [ETAS.KR](https://www.etas.com/ko/index.php) (23.07 ~)
 
 ---------------------
 ### Awards
@@ -25,13 +25,13 @@
 * SOS(소득 분위에 따른 지하철 요금 책정 시스템) Project (22.07 ~ 22.08) : [[Link]](https://github.com/mmalfoy/22--summer-project-)
 * Priority Scheduler on xv6 (22.09 ~ 22.10) : [[Link]](https://github.com/yimhyeongjun/Priority_Scheduler_on_xv6)
 * Continuous Sector File System on xv6 (22.11 ~ 22.12) : [[Link]](https://github.com/yimhyeongjun/Continuous_file_system_on_xv6)
-* 현지 여행 물가 정보 제공 서비스(23.03 ~ 23.06) 
+* 현지 여행 물가 정보 제공 서비스(23.03 ~ 23.06) : [[Link]](https://github.com/bagasari)
 
 #### Product Design
 * [텀블벅 크라우드 펀딩](https://tumblbug.com/ddobagi__light?ref=검색%2F키워드) (21.4 ~ 21.7)
 * [창업워크숍(사업계획서 경진대회)](https://github.com/pppqqq99/pppqqq99/files/9264618/Wet.the.Travel.pdf) (21.9 ~ 21.10)
 * [자람푸드 기업미션 프로젝트(사업 기획)](https://github.com/pppqqq99/pppqqq99/files/9264639/_.1.-1.pdf) (21.10 ~ 21.12)
-* [NFT Ticket 모델링]() (23.04 ~ 23.06)
+* [NFT Ticket 모델링](/Users/yimhyeongjun/Desktop/임형준_숭실대/4학년/4-1/컴공특) (23.04 ~ 23.06)
 
 
 
