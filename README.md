@@ -5,7 +5,7 @@
 
 ---------------------
 ### Career
-* Intership at [ETAS.KR](https://www.etas.com/ko/index.php) (23.07 ~ 23.12)
+* Intership at [ETAS-KR](https://www.etas.com/ko/index.php) (23.07 ~ 23.12)
 
 ---------------------
 ### Awards
