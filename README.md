@@ -26,6 +26,8 @@
 * Priority Scheduler on xv6 (22.09 ~ 22.10) : [[Link]](https://github.com/yimhyeongjun/Priority_Scheduler_on_xv6)
 * Continuous Sector File System on xv6 (22.11 ~ 22.12) : [[Link]](https://github.com/yimhyeongjun/Continuous_file_system_on_xv6)
 * 현지 여행 물가 정보 제공 서비스(23.03 ~ 23.06) : [[Link]](https://github.com/bagasari)
+* Deploying Adaptive AUTOSAR Platform & ASW on the target ECU : (23.07 ~ 23.08 in ETAS) [NDA]
+* Preparing SDV Demo for Exhibition(DIFA, HD Mobis, HL Mando) : (23.09 ~ 23.11 in ETAS) [NDA]
 
 #### Product Design
 * [텀블벅 크라우드 펀딩](https://tumblbug.com/ddobagi__light?ref=검색%2F키워드) (21.4 ~ 21.7)
