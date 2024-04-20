@@ -14,16 +14,18 @@
 * 2023-1 백마성적우수장학금
 ---------------------
 ### Certificates
-* Classic AUTOSAR BSW ![수료증](/Users/yimhyeongjun/Desktop/취업준비/인적사항_서류/임형준_Classic_AUTOSAR_BSW_교육수료증.pdf)
-* Classic AUTOSAR ASW ![수료증](/Users/yimhyeongjun/Desktop/취업준비/인적사항_서류/임형준_Classic_AUTOSAR_ASW_교육이수증.pdf)
-* Adaptive AUTOSAR ![수료증](/Users/yimhyeongjun/Desktop/취업준비/인적사항_서류/임형준_Adaptive_AUTOSAR_교육수료증.pdf)
+* Classic AUTOSAR BSW 
+* Classic AUTOSAR ASW 
+* Adaptive AUTOSAR
+* Lectopia C Language
 ---------------------
 ### Baekjoon Link
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pppqqq99)](https://solved.ac/pppqqq99)
+
 ---------------------
 ### English
 * CIA Certificate (23.12 ~ 24.01)
-* Opic Intermediate High (24.03)
+* Opic Score : Intermediate High (24.03)
 ---------------------
 ### Projects
 
