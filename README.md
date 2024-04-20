@@ -24,7 +24,7 @@
 
 ---------------------
 ### English
-* CIA Certificate (23.12 ~ 24.01)
+* Cebu International Academy Certificate (23.12 ~ 24.01)
 * Opic Score : Intermediate High (24.03)
 ---------------------
 ### Projects
