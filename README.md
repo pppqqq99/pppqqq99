@@ -14,10 +14,10 @@
 * 2023-1 백마성적우수장학금
 ---------------------
 ### Certificates
-* Classic AUTOSAR BSW 
-* Classic AUTOSAR ASW 
-* Adaptive AUTOSAR
-* Lectopia C Language
+* Classic AUTOSAR BSW (from ETAS-KR)
+* Classic AUTOSAR ASW (from ETAS-KR)
+* Adaptive AUTOSAR (from ETAS-KR)
+* Lectopia C Language (from Lectopia)
 ---------------------
 ### Baekjoon Link
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pppqqq99)](https://solved.ac/pppqqq99)
