@@ -6,6 +6,7 @@
 ---------------------
 ### Career
 * Intership at [ETAS-KR](https://www.etas.com/ko/index.php) (23.07 ~ 23.12)
+* SW Researcher at [LIG Nex1](https://www.lignex1.com/main.do) (24.07 ~)
 
 ---------------------
 ### Awards
